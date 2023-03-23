@@ -1,0 +1,1 @@
+# changefreq-value-in-a-sitemap
